@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-int a,b,c=0,i;
+int a,b,c=0,j;
 scanf("%d",&a);
-for(i=1;a>10;i++)
+for(j=1;a>10;j++)
 {
 b=a%10;
 c=c+b;
